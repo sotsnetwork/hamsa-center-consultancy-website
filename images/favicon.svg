@@ -1,0 +1,19 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="32" height="32" fill="white"/>
+  
+  <!-- Hamsa Hand Symbol -->
+  <g transform="translate(6, 6)">
+    <!-- Hamsa Hand Shape -->
+    <path d="M10 7.5 Q8 2.5 12 2.5 Q16 2.5 15 7.5 Q12.5 12.5 10 7.5 Z" fill="#fbbf24" stroke="#1e3a8a" stroke-width="0.5"/>
+    
+    <!-- Human Figures -->
+    <circle cx="9" cy="6" r="1" fill="#fbbf24"/>
+    <circle cx="11" cy="6" r="1" fill="#fbbf24"/>
+    <circle cx="10" cy="5" r="0.8" fill="#fbbf24"/>
+    
+    <!-- Leaf Elements -->
+    <path d="M7.5 10 Q10 9 12.5 10" stroke="#16a34a" stroke-width="1" fill="none"/>
+    <path d="M12.5 10 Q10 11 7.5 10" stroke="#16a34a" stroke-width="1" fill="none"/>
+  </g>
+</svg>

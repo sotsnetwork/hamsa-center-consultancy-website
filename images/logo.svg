@@ -1,0 +1,32 @@
+<svg width="300" height="100" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="300" height="100" fill="white"/>
+  
+  <!-- English Text -->
+  <text x="10" y="25" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1e3a8a">HAMSA</text>
+  <text x="10" y="45" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e3a8a">CENTER</text>
+  
+  <!-- Arabic Text -->
+  <text x="200" y="25" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#1e3a8a" direction="rtl">مركز همسة</text>
+  <text x="200" y="50" font-family="Arial, sans-serif" font-size="12" fill="#1e3a8a" direction="rtl">للإستشارات الإجتماعية النفسية والأسرية</text>
+  
+  <!-- Hamsa Hand Symbol -->
+  <g transform="translate(120, 15)">
+    <!-- Hamsa Hand Shape -->
+    <path d="M30 20 Q20 5 40 5 Q60 5 50 20 Q40 35 30 20 Z" fill="#fbbf24" stroke="#1e3a8a" stroke-width="1.5"/>
+    
+    <!-- Human Figures -->
+    <circle cx="28" cy="15" r="3" fill="#fbbf24"/>
+    <circle cx="32" cy="15" r="3" fill="#fbbf24"/>
+    <circle cx="30" cy="12" r="2" fill="#fbbf24"/>
+    
+    <!-- Leaf Elements -->
+    <path d="M25 30 Q30 28 35 30" stroke="#16a34a" stroke-width="3" fill="none"/>
+    <path d="M35 30 Q30 32 25 30" stroke="#16a34a" stroke-width="3" fill="none"/>
+  </g>
+  
+  <!-- Contact Information -->
+  <text x="10" y="75" font-family="Arial, sans-serif" font-size="10" fill="#666666">Tel: +971 4 2368822</text>
+  <text x="10" y="88" font-family="Arial, sans-serif" font-size="10" fill="#666666">Mob: +971 50 8810060</text>
+  <text x="10" y="100" font-family="Arial, sans-serif" font-size="10" fill="#666666">Fax: +971 4 2395575</text>
+</svg>
